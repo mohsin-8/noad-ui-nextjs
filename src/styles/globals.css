@@ -8,3 +8,7 @@ body {
   overflow-x: hidden;
   font-family: "Maven Pro", sans-serif;
 }
+
+.cardscroll::-webkit-scrollbar {
+  display: none;
+}
